@@ -104,32 +104,16 @@ export const skillGroups = [
 
 export const careerItems = [
   {
-    period: "2010.01 - 2024.07",
-    company: "(주)한국지텔프",
-    role: "시행관리본부 차장 · 시험 운영 및 교육행정",
-    description:
-      "국가공인 시험 운영의 한가운데에 있었습니다. 전국 5개였던 시험장은 24개 학교로 넓어졌고, 340회가 넘는 시험 운영 속에서 성적 처리, 응시자 관리, 민원 대응, 인사행정, ERP 운영까지 함께 익혔습니다."
+    company: "(주)한국지텔프"
   },
   {
-    period: "2024.11 - 2025.05",
-    company: "하이미디어 IT인재개발원",
-    role: "차세대 CRM 플랫폼 개발 과정 수료",
-    description:
-      "다시 교육생의 자리로 돌아가 Java, Spring Boot, AWS, LowCode, AI Automation을 배웠습니다. CRM 서비스 화면을 설계하고 서버와 연결하며 배우는 사람의 불안과 성장을 다시 몸으로 느꼈습니다."
+    company: "하이미디어 IT인재개발원"
   },
   {
-    period: "IT Project",
-    company: "라온코드",
-    role: "웹사이트·모바일 앱 기획 및 제작",
-    description:
-      "아이디어를 말로만 두지 않고 화면과 서비스로 옮겼습니다. 기업 홈페이지를 만들고 BusPop, Koofy Sudoku, 지본 앱을 출시하며 기획, UI 설계, 개발, 테스트, 스토어 등록의 흐름을 배웠습니다."
+    company: "라온코드"
   },
   {
-    period: "2025.11 - Present",
-    company: "디케빈즈택스랩",
-    role: "이사 · 홈페이지/인트라넷/콘텐츠 운영",
-    description:
-      "지금은 홈페이지, 내부 인트라넷, 유튜브 콘텐츠, 업무 프로세스를 함께 다룹니다. 작은 조직이 더 잘 움직이도록 필요한 도구와 콘텐츠를 하나씩 만들어가고 있습니다."
+    company: "디케빈즈택스랩"
   }
 ];
 
