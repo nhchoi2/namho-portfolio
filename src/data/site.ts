@@ -23,7 +23,7 @@ export const siteConfig = {
     watchUrl: "https://www.youtube.com/watch?v=ZmAy6-MoJ_U&t=22s",
     embedUrl: "https://www.youtube.com/embed/ZmAy6-MoJ_U?start=22&rel=0"
   },
-  email: "mailto:choi1278@gmail.com"
+  email: "mailto:koofylab@gmail.com"
 };
 
 export const navItems = [
