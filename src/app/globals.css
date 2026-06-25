@@ -1,0 +1,57 @@
+@import "pretendard/dist/web/static/pretendard.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --header-height: 72px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #ffffff;
+  color: #0a0a0b;
+  font-family: Pretendard, Inter, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: rgba(23, 105, 255, 0.18);
+}
+
+.section-shell {
+  margin: 0 auto;
+  width: min(1120px, calc(100% - 40px));
+}
+
+.grid-paper {
+  background-image:
+    linear-gradient(rgba(10, 10, 11, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(10, 10, 11, 0.04) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+.focus-ring {
+  outline: 2px solid transparent;
+  outline-offset: 3px;
+}
+
+.focus-ring:focus-visible {
+  outline-color: #1769ff;
+}

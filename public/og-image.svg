@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="white"/>
+  <path d="M0 0H1200V630H0V0Z" fill="url(#grid)"/>
+  <rect x="84" y="86" width="1032" height="458" rx="8" fill="white" stroke="#E6E8EC"/>
+  <text x="130" y="202" fill="#1769FF" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="6">EDUCATION × HR × IT</text>
+  <text x="130" y="338" fill="#0A0A0B" font-family="Arial, sans-serif" font-size="112" font-weight="800">최남호</text>
+  <text x="130" y="422" fill="#4B5563" font-family="Arial, sans-serif" font-size="42" font-weight="500">사람을 이해하고, 기술로 해결책을 만드는 사람.</text>
+  <rect x="922" y="354" width="116" height="116" rx="8" fill="#0A0A0B"/>
+  <text x="959" y="428" fill="white" font-family="Arial, sans-serif" font-size="52" font-weight="800">N</text>
+  <path d="M922 494H1038" stroke="#1769FF" stroke-width="8"/>
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#0A0A0B" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+</svg>
